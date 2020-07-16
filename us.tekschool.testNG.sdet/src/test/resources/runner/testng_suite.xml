@@ -8,7 +8,7 @@
 	<parameter name="password" value="welcome1" />
 	<test name="Login to Hotel Page">
 		<classes>
-			<class name="tests.TestNGConcepts" />
+			<class name="tests.HotelLogin" />
 		</classes>
 	</test>
 </suite>
